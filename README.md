@@ -7,6 +7,7 @@ The following repo will be used to gather data captured from the following list 
 
 - Accessibility for Web Developers
   http://www.bbc.co.uk/academy/beta/en/courses/COU-12887
+  (Need access to BBC website with login) - need to request access
 
 - Introduction to Terminal (CLI)
   https://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855
